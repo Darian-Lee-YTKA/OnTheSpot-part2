@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<img src='ffa03fb0-80ea-446e-ae9f-305583ef5ec7.gif' width='300' alt='Video Walkthrough' />
+<img src='ffa03fb0-80ea-446e-ae9f-305583ef5ec7.gif' width='1000' alt='Video Walkthrough' />
 
 
 ## Notes
